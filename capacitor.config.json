@@ -1,0 +1,9 @@
+{
+  "appId": "com.subham.momentum",
+  "appName": "Momentum",
+  "webDir": "www",
+  "server": {
+    "url": "https://subhammahato496-dot.github.io/Momentum-/",
+    "cleartext": false
+  }
+}
